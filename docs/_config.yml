@@ -195,7 +195,7 @@ sidebar:
         # LOGO URL
         # Image URL: Can be local e.g. '/img/logo.png' or remote 'https://remotesite.com/img/logo.png'
         #url: /assets/libdoc/img/favicon/android-chrome-512x512.png
-        url: /assets/img/cloud-ninja.jpeg
+        url: /assets/img/aks.png
 
         # LOGO MAX HEIGHT
         # Logo image max height, applies only if url is set
@@ -212,7 +212,7 @@ sidebar:
         -   url: index.html
             title: Home 
             order: 0
-        -   url: https://github.com/appdevgbb/gbb-blog # Local or remote URL
+        -   url: https://github.com/chzbrgr71/chzbrgr71.github.io # Local or remote URL
             title: <span class="i-github u-mr-xxs"></span> View on GitHub # Link text
             order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
             # category: Showcase # Add this this link into a category just like pages
