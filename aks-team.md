@@ -1,6 +1,6 @@
 layout: page
 title: "About the AKS Team"
-permalink: /about-aks-team
+permalink: /about/contact/
 
 ## AKS Engineering Team
 
