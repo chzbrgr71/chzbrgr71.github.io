@@ -2,7 +2,7 @@
 layout: libdoc/page
 ---
 
-Welcome to the Azure Kubernetes Service (AKS) Engineering Blog
+Welcome to the Azure Kubernetes Service (AKS) Engineering Blog. 
 
 Blog posts:
 <ul>
