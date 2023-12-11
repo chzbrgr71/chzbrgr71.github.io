@@ -1,7 +1,15 @@
-steve_griffith:
+brian_redmond:
   name: Brian Redmond
   email: brian.redmond@microsoft.com
   twitter: chzbrgr71
   github: chzbrgr71
   bio: Brian Redmond is an AKS Product Manager
-  image: https://github.com/swgriffith.png
+  image: https://github.com/chzbrgr71
+
+jorge_palma:
+  name: Jorge Palma
+  email: jorge.palma@microsoft.com
+  twitter: palma21
+  github: palma21
+  bio: Jorge Palma is the PM Manager for AKS
+  image: https://avatars.githubusercontent.com/u/7065724?v=4
